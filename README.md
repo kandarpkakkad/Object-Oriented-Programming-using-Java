@@ -10,10 +10,8 @@ Also, here, the number in the name of solution files is of the i-1th tutorial. E
 
 To run a java file in command line use the following steps:
   
-  # Compilation
-  javac filename.java
+### Compilation
+javac filename.java
   
-  # Run
-  java classname
-  
-  
+### Run
+java classname
